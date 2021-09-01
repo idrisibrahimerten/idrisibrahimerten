@@ -9,4 +9,4 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/idrisibrahimert)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-ibrahim-erten-72370a1b7/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idrisibrahimertenofficial/)
-[![Mail Badge](https://img.shields.io/badge/idris-ibrahim-erten-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:idrisibrahimerten@gmail.com)](mailto:idrisibrahimerten@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/idrisibrahimerten@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:idrisibrahimerten@gmail.com)](mailto:idrisibrahimerten@gmail.com)
