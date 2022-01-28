@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=idrisibrahimerten&show_icons=true">
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## Hi! Welcome!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrisibrahimerten" alt="erten" /> </p>
 
 [![](https://img.shields.io/youtube/channel/subscribers/UC3oe0sDGulLFQBhhxkxo3mg?style=social)](https://www.youtube.com/channel/UC3oe0sDGulLFQBhhxkxo3mg)
