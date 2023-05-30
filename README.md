@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=idrisibrahimerten&show_icons=true">
 
-# Hi! 👋  I'm Idris Ibrahim ERTEN
+# Hi! 👋  I'm Idris Ibrahim ERTEN 
+## Merhaba! Ben bir Python geliştiriciyim ve açık kaynak projelere tutkuyla bağlıyım. Python'un esnekliğini ve gücünü kullanarak kullanıcı dostu, ölçeklenebilir ve etkileyici yazılım çözümleri üretmek için buradayım. Veri analizi, yapay zeka ve web geliştirme gibi alanlarda deneyime sahibim. Düzenli olarak projelerime katkıda bulunuyor, kod deneyimlerimi paylaşıyor ve diğer geliştiricilerle işbirliği yapıyorum. Açık kaynak topluluğunda daha fazla katılımcıyı teşvik etmek ve birlikte daha iyi kod üretmek benim önceliklerim arasında yer alıyor. Benimle birlikte çalışarak inovatif projelerde yer almak veya birlikte yeni fikirler keşfetmek için lütfen iletişime geçin. Kodlamayı bir tutku olarak görüyor ve her projede kendimi geliştirmeyi hedefliyorum. Siz de projelerimde gezinmeye ve işbirliği yapmaya davetlisiniz. Haydi, birlikte kod dünyasını keşfedelim!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrisibrahimerten" alt="erten" /> </p>
 
 [![](https://img.shields.io/youtube/channel/subscribers/UC3oe0sDGulLFQBhhxkxo3mg?style=social)](https://www.youtube.com/channel/UC3oe0sDGulLFQBhhxkxo3mg)
