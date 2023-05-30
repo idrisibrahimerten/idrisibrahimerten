@@ -21,7 +21,6 @@
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
   <a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a>
      <a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> 
