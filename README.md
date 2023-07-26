@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idris Ibrahim ERTEN</h1>
-<h3 align="center">Python tutkunu bir geliştiriciyim ve kod yazmayı adeta bir sanat olarak görüyorum.</h3>
+<h3 align="center">I'm a developer with a passion for Python and I consider writing code an art.</h3>
 
 - 🔭 I’m currently working on [React-Tailwind E-Commerce Website](https://github.com/idrisibrahimerten/react-tailwind-ecommerce-website-project)
 
