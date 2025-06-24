@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai)
+- 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai) — AI-driven analytics & copy-trading platform for crypto
 - 🌱 Growing skills in **C/C++** and advanced system design
 - 👯 Open to impactful collaborations and ambitious projects!
 - 📝 Articles: [Medium](https://medium.com/@idrisibrahimerten)
