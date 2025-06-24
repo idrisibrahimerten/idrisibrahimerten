@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Currently building: [React-Tailwind E-Commerce Website](https://github.com/idrisibrahimerten/react-tailwind-ecommerce-website-project)
+- 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai)
 - 🌱 Growing skills in **C/C++** and advanced system design
 - 👯 Open to impactful collaborations and ambitious projects!
 - 📝 Articles: [Medium](https://medium.com/@idrisibrahimerten)
