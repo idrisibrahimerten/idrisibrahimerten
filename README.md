@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/idrisibrahimerten" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" height="30"/></a>
   <a href="https://medium.com/@idrisibrahimerten" target="blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium" height="30"/></a>
-  <a href="https://www.youtube.com/c/yazlmcininargeofisi" target="blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" height="30"/></a>
+  <a href="https://www.youtube.com/@yazlmcininargeofisi" target="blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" height="30"/></a>
 </p>
 
 ---
