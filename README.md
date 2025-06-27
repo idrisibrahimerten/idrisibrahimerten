@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Idris Ibrahim ERTEN</h1>
-<h3 align="center">Full-Stack Developer | Product Builder | Automation Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Product Builder | Automation & AI Enthusiast</h3>
 <p align="center">
   <em>
-    🚀 Building scalable digital solutions that bridge ideas and impact.<br>
-    💡 Passionate about clean code, creative problem-solving, and turning vision into reality.
+    🚀 Building smart, scalable digital systems that connect people, data, and impact.<br>
+    💡 Passionate about clean code, fast execution, and AI-driven innovation.
   </em>
 </p>
 
 ---
 
-- 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai) — AI-driven analytics & copy-trading platform for crypto
-- 🌱 Growing skills in **C/C++** and advanced system design
-- 👯 Open to impactful collaborations and ambitious projects!
-- 📝 Articles: [Medium](https://medium.com/@idrisibrahimerten)
-- 💬 Ask me about: **Python, automation, full-stack architecture**
-- 📫 Email: **idrisibrahimerten@gmail.com**
+- 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai) — AI-powered analytics & copy-trading platform for crypto
+- 🌱 Deepening expertise in **C/C++**, **Django**, and system architecture
+- 👯 Actively contributing to **solar tech**, **IoT**, and **municipal transformation** projects
+- 📝 Articles & insights: [Medium](https://medium.com/@idrisibrahimerten)
+- 💬 Ask me about: **Python, full-stack systems, automation, data-driven apps**
+- 📧 Email: **idrisibrahimerten@gmail.com**
 
 ---
 
@@ -30,27 +30,31 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <!-- Add more as you like -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
 </p>
 
 ---
 
 <h3 align="center">Why Work With Me?</h3>
 
-- 🏆 8+ years in software engineering, product development, and digital transformation
-- 🌍 Experience from startups to enterprise projects (Bodrum, Istanbul, Global)
-- 🤝 Reliable, proactive and fast in delivering high-impact results
-- 🧩 Driven by curiosity, collaboration, and user-focused innovation
+- 🏆 8+ years building software products across web, mobile, embedded, and AI
+- 🌍 Proven impact in startups, global teams, and smart city/public sector projects
+- 🤝 Reliable, fast, and collaborative with strong product intuition
+- 🧰 Focused on innovation in **energy tech**, **public services**, and **AI-driven systems**
 
 ---
 
 <p align="center">
-  <b>Let's connect and create something remarkable!</b>
+  <b>Let’s connect and bring powerful ideas to life!</b>
 </p>
