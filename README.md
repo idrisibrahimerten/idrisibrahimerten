@@ -48,7 +48,6 @@
 - 🏆 4+ years building software products across web, mobile, embedded, and AI
 - 🌍 Proven impact in startups, global teams, and smart city/public sector projects
 - 🤝 Reliable, fast, and collaborative with strong product intuition
-- 🧰 Focused on innovation in **energy tech**, **public services**, and **AI-driven systems**
 
 ---
 
