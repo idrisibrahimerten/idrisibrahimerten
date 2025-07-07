@@ -10,8 +10,7 @@
 ---
 
 - 🔭 Currently building: [Whaleswap AI](https://whaleswap.ai) — AI-powered analytics & copy-trading platform for crypto
-- 🌱 Deepening expertise in **C/C++**, **Django**, and system architecture
-- 👯 Actively contributing to **solar tech**, **IoT**, and **municipal transformation** projects
+- 🌱 Deepening expertise in **Python**, **NodeJs**, **React** and system architecture
 - 📝 Articles & insights: [Medium](https://medium.com/@idrisibrahimerten)
 - 💬 Ask me about: **Python, full-stack systems, automation, data-driven apps**
 - 📧 Email: **idrisibrahimerten@gmail.com**
