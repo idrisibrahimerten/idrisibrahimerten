@@ -3,7 +3,6 @@
 
 <p align="center">
   <em>
-    🚀 Turning ideas into robust, scalable systems—on web, mobile & IoT.<br>
     💡 Passionate about clean architecture, fast execution & agentic AI.
   </em>
 </p>
