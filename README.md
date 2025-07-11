@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m İdris İbrahim Erten</h1>
-<h3 align="center">Full-Stack Developer | AI & Automation Advocate | Product Builder</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <em>
