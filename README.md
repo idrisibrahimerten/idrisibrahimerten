@@ -60,7 +60,7 @@
 <h3 align="center">Why Work With Me?</h3>
 
 - 🏆 **5+ years** building production-grade software in startups, public sector & scale-ups  
-- 🌍 Proven impact in crypto, solar-energy IoT, municipal digital transformation & automation  
+- 🌍 Proven impact in crypto, solar-energy IoT, web technologies & automation 
 - 🤝 Fast, reliable & highly collaborative—strong product sense from concept to launch  
 - 🚀 Eager to tackle complexity: from microservices and agentic AI to full-stack mobile/web apps  
 
