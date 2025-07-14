@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    💡 Passionate about clean architecture, fast execution & agentic AI.
+    I am a software developer specialized in AI-powered systems, data automation, and high-traffic web platforms. I have expertise in the Python (FastAPI, Django) and JavaScript (Node.js, React, Next.js) ecosystems, delivering scalable solutions through real-time        architectures, API design, and AI/ML integrations. I focus on adding tangible value to business processes by contributing to technical leadership, project planning, and end-to-end product development.
   </em>
 </p>
 
